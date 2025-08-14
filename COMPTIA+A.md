@@ -37,3 +37,18 @@ that will work. First does the motherboard support intel CPU's or AMD CPU's seco
 > Note
 
 > AS mentioned previously, ARM processors come in a complete package with the motherboard and other components. you'll never "install" an ARM processor
+
+<p>to find answers to both those questions, you have two sources: the motherboard book or manual and find the manufacturer's Web site. </p>
+
+<p>Just as intel and AMD make many types of CPU's motherboards are manufactured with various diffrrent types of sockets. there have been hundreds of sockets devolped over the years Table shows a few more popular ones in production today</p>
+
+| Socket   | Platform | CPU                                                                 |
+|----------|----------|----------------------------------------------------------------------|
+| LGA 2066 | Intel    | Core i3/i5/i7, Xeon (Skylake, Kaby Lake, Cascade Lake)               |
+| LGA 1200 | Intel    | Core i5/i7/i9, Xeon (Comet Lake, Rocket Lake)                        |
+| LGA 1700 | Intel    | Core i5/i7/i9, Xeon (Alder Lake)                                     |
+| AM4      | AMD      | Ryzen                                                                |
+| TR4      | AMD      | Ryzen Threadripper                                                   |
+| AM5      | AMD      | Ryzen (Zen 4)                                                        |
+
+
