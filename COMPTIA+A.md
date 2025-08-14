@@ -27,3 +27,5 @@ performance of the computer while at the same time reducing energy use, size, an
   <li>ARM  XN(Execute Never</li>
 </ul>
 
+<h3>Selecting and installing CPU's</h3>
+<p>Now that you know how CPU's work, it's time to get practical. This last section discusses selecting the proper CPU, installing serveral types of prcessors, and troubleshooting the few problems techs face with CPU's</p>
