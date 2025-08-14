@@ -27,3 +27,13 @@
 <h3>Selecting and Installing CPUs</h3>
 
 <p>Now that you know how CPUs work, it's time to get practical. This last section discusses selecting the proper CPU, installing several types of processors, and troubleshooting the few problems techs face with CPUs.</p>
+
+<h3>Selecting CPU</h3>
+
+<p>When selecting a CPU, you need to make certain you get one that the motherboard can accommodate Or. if you're buying a motherboard along with the CPU, then get the right CPU
+for the intended purpose Chapter 11 discuses computer roles and helps select the proper peices around the CPU to get the full picture, so we'll wait until then to discuss the "why" of specific processors. instead this section assumes you're placing a new CPU in an already-aquired motherboard. You need to address two key points in selecting a CPU
+that will work. First does the motherboard support intel CPU's or AMD CPU's second, what CPU socket does the motherboard here</p>
+
+> Note
+
+> AS mentioned previously, ARM processors come in a complete package with the motherboard and other components. you'll never "install" an ARM processor
