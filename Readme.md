@@ -56,3 +56,26 @@ that will work. First does the motherboard support intel CPU's or AMD CPU's seco
 > Exam Tip
 
 > The COMPTIA A+ 1101 exam objectives do not list any specific CPU sockets, but previous versions frequently included questions about them. Hopefully you wont run into one of these questions, but its not a bad idea to know the sockets just in case. Beyond the exam, just make sure that you understand taht every CPU has a specific socket into which it fits and make a sure client's motherboard has the socket that works with a suggested CPU
+
+
+<h3>Deciphering Processor Numbers</h3>
+
+<p>intel and AMD use diffrent processor numbering schmes that help you compare multiple CPU's with similar names, such as Core i5 AMD and Intel both have fairy similar numbering schemes Here's the scoop on both.  Intel processor numbers follow a very clear pattern. An Intel Core i7 7500 U processor, for example, maps out like this</p>
+
+<ul>
+  <li>Intel Core = brand</li>
+  <li>i7 = brand modifier</li>
+  <li>7 = generation</li>
+  <li>500 = SKU numbers</li>
+  <li>U = alpha suffix (U indicated that it's a desktop processor using ultra-low power)</li>
+</ul>
+
+<p>Contrast the previous processor with an Intel Core i7 12700K, whare the numbers map like this</p>
+
+<ul>
+  <li>Intel Core = brand</li>
+  <li>i7 = brand modifier</li>
+  <li>12 = generation</li>
+  <li>700 SKU numbers</li>
+  <li>K = alpha suffix (K indicates that the processor is unlocked and therfor overclockable</li>
+</ul>
