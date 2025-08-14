@@ -51,4 +51,8 @@ that will work. First does the motherboard support intel CPU's or AMD CPU's seco
 | TR4      | AMD      | Ryzen Threadripper                                                   |
 | AM5      | AMD      | Ryzen (Zen 4)                                                        |
 
+<h5>Common Sockets</h5>
 
+> Exam Tip
+
+> The COMPTIA A+ 1101 exam objectives do not list any specific CPU sockets, but previous versions frequently included questions about them. Hopefully you wont run into one of these questions, but its not a bad idea to know the sockets just in case. Beyond the exam, just make sure that you understand taht every CPU has a specific socket into which it fits and make a sure client's motherboard has the socket that works with a suggested CPU
