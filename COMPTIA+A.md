@@ -17,3 +17,6 @@ from the CPU's designed for gneral-purpose computing. The generic term for the v
 <em>graphics processing unit (GPU) I'll spare you the details until we get to video in chapter 17, but it turns out that graphics prcessors can handle certain task much </em>
 more efficiently than the standard CPU. Intergrating a GPU into the CPU enhacnes the overall
 performance of the computer while at the same time reducing energy use, size, and cost. With the proliferation of mobile devices and protable computers today all these benifits have obvious merit.</p>
+
+<h3>Security</h3>
+<p>All modern processors employ the <em>NX bit technology</em> that enables the CPU to protect certain section of memory this feature, couples with implementation by the operating system, stops malicious attacks from getting to essential op[erating system files. Microsoft calls the feature <em>Data Execution Prevention (DEP),</em> turned on by default in every OS  </p>
