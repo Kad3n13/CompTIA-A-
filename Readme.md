@@ -79,3 +79,12 @@ that will work. First does the motherboard support intel CPU's or AMD CPU's seco
   <li>700 SKU numbers</li>
   <li>K = alpha suffix (K indicates that the processor is unlocked and therfor overclockable</li>
 </ul>
+
+<ul>
+  <li>AMD Ryzen = brand</li>
+  <li>7 = marker segment/power (higher number is more powerful</li>
+  <li>5 = generation</li>
+  <li>8 performance level</li>
+  <li>00 = model number</li>
+  <li>X = Power suffix (X indicates High-performance)</li>
+</ul>
